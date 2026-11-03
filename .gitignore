@@ -1,0 +1,18 @@
+# Repertoires de construction
+build/
+cmake-build-*/
+out/
+
+# Fichiers generes
+compile_commands.json
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+
+# Caches des outils
+.cache/
+.idea/
